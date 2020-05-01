@@ -6,6 +6,9 @@ body {
   background-color: #607d8b !important;
 }
 
+#mobile-nav li {
+  border-bottom: 1px solid #9ee3f8 !important;
+}
 #mobile-nav li a,
 #mobile-nav li a i {
   color: #ffffff !important;
