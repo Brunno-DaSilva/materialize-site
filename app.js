@@ -9,7 +9,7 @@ M.Sidenav.init(sideNav, {});
 const elems = document.querySelectorAll(".slider");
 M.Slider.init(elems, {
   indicators: false,
-  height: 500,
+  height: 530,
   transition: 500,
   interval: 6000,
 });
